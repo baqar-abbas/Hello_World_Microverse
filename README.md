@@ -63,16 +63,16 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello_World_microverse Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[Hello_World_Microverse]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+**[Hello_World_Microverse ]** is my first Microverse Project...
+
+## 🛠 Built With Visual studio Code in collaboration with Git Hub <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
-
+  Built on Visual studio Code in Collaboration with Git Hub 
 <details>
   <summary>Client</summary>
   <ul>
@@ -98,11 +98,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Hello_World_microverse Project]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -120,14 +119,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
+ A New developer can view my project updates on Git HUB shared Repository
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
+> Browser
+> GitHub Account
+> VS Code Editor
 <!--
 Example command:
 
@@ -138,7 +138,8 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: 
+git clone <project repository link>
 
 <!--
 Example commands:
@@ -149,47 +150,12 @@ Example commands:
 ```
 --->
 
-### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
-
+Git Hub 
 <!--
 Example:
 
@@ -205,14 +171,15 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+lorna and Shubham 
 
-👤 **Author1**
+👤 **Lorna**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Shubham**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -226,9 +193,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Hello world Microverse Project]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,8 +213,8 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
-
-If you like this project...
+ This is a Simple Git Hub project of Hello Microverse following the Git Flow Processes.
+If you like this project give it a Thumbs up ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,7 +224,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the Code Reveiwer as well for their constructive feedback...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,13 +234,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Did you understand the Git Hub Process Flow]**
 
-  - [Answer_1]
+  - [Yes and will improve as I gain more experience working with Git Hub]
 
-- **[Question_2]**
+- **[Do you understand Git Process Flow]**
 
-  - [Answer_2]
+  - [Yes and will improve as I gain more experience working with Git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
