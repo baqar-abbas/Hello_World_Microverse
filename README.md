@@ -214,7 +214,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
  This is a Simple Git Hub project of Hello Microverse following the Git Flow Processes.
-If you like this projectn give it a Thumbs up ...
+If you like this project give it a Thumbs up ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
