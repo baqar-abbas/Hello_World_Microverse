@@ -67,12 +67,12 @@ After you're finished please remove all the comments and instructions!
 
 **[Hello_World_Microverse]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With Visual studio Code in collaboration with Git Hub <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
-
+  Built on Visual studio Code in Collaboration with Git Hub 
 <details>
   <summary>Client</summary>
   <ul>
@@ -121,7 +121,7 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
-
+ A New developer can view my project updates on Git HUB shared Repository
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -247,7 +247,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
-
+ This is a Simple Git Hub project of Hello Microverse following the Git Flow Processes.
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -258,7 +258,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the Code Reveiwer as well for their constructive feedback...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,13 +268,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Did you understand the Git Hub Process Flow]**
 
-  - [Answer_1]
+  - [Yes and will improve as I gain more experience working with Git Hub]
 
-- **[Question_2]**
+- **[Do you understand Git Process Flow]**
 
-  - [Answer_2]
+  - [Yes and will improve as I gain more experience working with Git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
